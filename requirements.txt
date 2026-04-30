@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.10.3
+librosa==0.11.0
+scikit-learn==1.7.0
+tensorflow==2.16.1
+soundfile==0.13.1
+joblib==1.5.1
+streamlit==1.45.1
+audio-recorder-streamlit==0.0.10
